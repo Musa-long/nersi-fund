@@ -8,9 +8,9 @@ type Errs = Record<string, string>;
 const ID_TYPES = [
   "National ID (NIN slip)",
   "Driver's licence",
-  'Permanent voter's card (PVC)',
-  'International passport',
-  'None available',
+  "Permanent voter's card (PVC)",
+  "International passport",
+  "None available",
 ];
 
 export default function ApplyForm() {
